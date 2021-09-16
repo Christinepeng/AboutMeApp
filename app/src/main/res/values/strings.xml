@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Abouy Me</string>
+    <string name="name">Christine Peng</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">Hi,
+\n My name is Christine.
+\n\n I love coding.
+\n\n Coding helps me improve my logical and analytical skills.
+\n\n Coding is usable art.
+\n It also can make a difference in person’s life.
+\n\n I’m always learning and challenging myself.
+\n\n The sense of accomplishment when solving a really complicated problem cannot be beat!</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
