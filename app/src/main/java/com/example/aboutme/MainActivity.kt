@@ -1,14 +1,11 @@
-package com.example.abouyme
+package com.example.aboutme
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.inputmethod.InputMethodManager
-import android.widget.Button
-import android.widget.EditText
-import android.widget.TextView
 import androidx.databinding.DataBindingUtil
-import com.example.abouyme.databinding.ActivityMainBinding
+import com.example.aboutme.databinding.ActivityMainBinding
 import android.view.View as View1
 
 class MainActivity : AppCompatActivity() {

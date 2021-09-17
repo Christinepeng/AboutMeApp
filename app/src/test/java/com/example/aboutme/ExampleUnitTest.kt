@@ -1,4 +1,4 @@
-package com.example.abouyme
+package com.example.aboutme
 
 import org.junit.Test
 
